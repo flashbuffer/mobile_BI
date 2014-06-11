@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_caiwu">财务</string>
+    <string name="title_section1">资金管理</string>
+    <string name="title_section2">财务管理</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_query">QueryActivity</string>
+    <string name="title_com1">通辽物业</string>
+    <string name="title_com2">北京地产</string>
+    <string name="title_com3">天津房产</string>
+    <string name="title_activity_result_query">资金日报</string>
+    <string name="title_activity_result_download">ResultDownloadActivity</string>
+    <string name="title_activity_zjrb">资金日报</string>
+    <string name="title_activity_account_and_summary">收支明细</string>
+
+</resources>
